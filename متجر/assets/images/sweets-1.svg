@@ -1,0 +1,33 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#2E2419" flood-opacity="0.18"/></filter></defs>
+  <ellipse cx="300" cy="372" rx="214" ry="16" fill="#6B4A2E" opacity="0.35"/>
+  <ellipse cx="300" cy="375" rx="196" ry="8" fill="#7A553D" opacity="0.4"/>
+  <g>
+    <ellipse cx="200" cy="282" rx="34" ry="46" fill="#9D6BB6"/>
+    <ellipse cx="200" cy="266" rx="29" ry="40" fill="#B488CE"/>
+    <ellipse cx="200" cy="288" rx="17" ry="5" fill="#3F1073" opacity="0.8"/>
+    <ellipse cx="260" cy="268" rx="36" ry="48" fill="#C9A85E"/>
+    <ellipse cx="260" cy="274" rx="31" ry="41" fill="#DDB878"/>
+    <ellipse cx="320" cy="270" rx="34" ry="46" fill="#6BAB7B"/>
+    <ellipse cx="320" cy="276" rx="29" ry="40" fill="#8BC49C"/>
+    <ellipse cx="380" cy="268" rx="34" ry="46" fill="#D98A9E"/>
+    <ellipse cx="380" cy="274" rx="29" ry="40" fill="#E6A3B3"/>
+    <ellipse cx="440" cy="272" rx="34" ry="46" fill="#8B52B3"/>
+    <ellipse cx="440" cy="278" rx="29" ry="40" fill="#B4A0DE"/>
+    <ellipse cx="500" cy="272" rx="34" ry="46" fill="#F0D8A8"/>
+    <ellipse cx="500" cy="278" rx="29" ry="40" fill="#F7E2BE"/>
+  </g>
+  <g fill="#5D3B24" opacity="0.2">
+    <ellipse cx="200" cy="348" rx="34" ry="7"/>
+    <ellipse cx="260" cy="344" rx="36" ry="7"/>
+    <ellipse cx="320" cy="346" rx="34" ry="7"/>
+    <ellipse cx="380" cy="344" rx="34" ry="7"/>
+    <ellipse cx="440" cy="346" rx="34" ry="7"/>
+    <ellipse cx="500" cy="344" rx="34" ry="7"/>
+  </g>
+  <path d="M248 412 L298 428 L348 412 L372 428 L326 452 L276 430 Z" fill="#F0C888" stroke="#A16D3B" stroke-width="2"/>
+  <path d="M262 418 L305 428 L332 418" fill="none" stroke="#D9B484" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="292" cy="442" r="6" fill="#9C2A2A"/>
+  <circle cx="176" cy="338" r="6" fill="#9C2A2A"/>
+  <circle cx="524" cy="325" r="5.5" fill="#7C1C1C"/>
+</svg>

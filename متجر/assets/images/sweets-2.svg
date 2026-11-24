@@ -1,0 +1,17 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="300" cy="368" rx="220" ry="16" fill="#6B4A2E" opacity="0.3"/>
+  <ellipse cx="300" cy="374" rx="190" ry="8" fill="#7A553D" opacity="0.4"/>
+  <ellipse cx="300" cy="322" rx="92" ry="16" fill="#D9CBB0"/>
+  <path d="M226 320 C226 248 350 244 350 320 Z" fill="#E8DCC5" stroke="#B8966F" stroke-width="2.5"/>
+  <ellipse cx="246" cy="303" rx="36" ry="9" fill="#F0E5CD" opacity="0.8"/>
+  <ellipse cx="358" cy="298" rx="32" ry="8" fill="#F0E5CD" opacity="0.8"/>
+  <ellipse cx="316" cy="292" rx="38" ry="7" fill="#E6D9C6" opacity="0.7"/>
+  <circle cx="230" cy="340" r="8" fill="#9C2A2A"/>
+  <circle cx="272" cy="337" r="6" fill="#7C1C1C"/>
+  <circle cx="258" cy="360" r="7" fill="#9C2A2A"/>
+  <circle cx="342" cy="348" r="7" fill="#D94F4F"/>
+  <circle cx="330" cy="362" r="4.5" fill="#2E4053"/>
+  <path d="M286 322 L302 322 L318 324" stroke="#C9A85E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M282 306 L298 304 L314 306" stroke="#9D6BB6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M292 314 L306 312 L322 314" stroke="#C9A85E" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+</svg>

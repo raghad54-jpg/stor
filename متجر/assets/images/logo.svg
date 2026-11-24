@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Violet Café">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6A2CA0"/>
+      <stop offset="100%" stop-color="#4A1D73"/>
+    </linearGradient>
+    <linearGradient id="vgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6A2CA0"/>
+      <stop offset="100%" stop-color="#B8916F"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#4A1D73" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect x="2" y="10" width="60" height="60" rx="18" fill="url(#badge)" filter="url(#shadow)"/>
+  <ellipse cx="32" cy="18" rx="11" ry="4" fill="#EFE4FB" opacity="0.65"/>
+  <path d="M22 40 L22 33 A11 11 0 0 0 42 33 L42 40 Z" fill="#EFE4FB"/>
+  <path d="M30 33 L34 24" fill="none" stroke="#C9A85E" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M36 30 L40 24" fill="none" stroke="#9D6BB6" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <text x="84" y="52" font-family="'Playfair Display', serif" font-size="40" font-weight="700" letter-spacing="0.4" fill="#2E2419">
+    <tspan fill="url(#vgrad)" font-weight="700">Violet</tspan>
+    <tspan fill="#5D3B24"> Café</tspan>
+  </text>
+</svg>
